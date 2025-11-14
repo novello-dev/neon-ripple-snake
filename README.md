@@ -7,7 +7,8 @@
 Neon-styled Snake prototype built while studying GitHub Copilot (GH-300 certification).  
 Started as a basic workshop project and evolved into a sandbox for experimenting with AI-assisted development.
 
-**⚠️ Learning project:** huge parts are AI-assisted, code is not production-ready, and the goal here is documentation, mot polish.
+**⚠️ Learning project:** This project isn’t about the final result, it’s about learning how to use GitHub Copilot in a real environment and understanding where AI helps or hurts.
+Huge parts are AI-assisted, the code is not production-ready, and the goal here is documentation and experimentation, not polish.
 
 ---
 
