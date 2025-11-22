@@ -29,7 +29,8 @@ Neon grid • Ripple effects • Enemy spawning • Procedural SFX • Toggleabl
 - **C** — Scanlines overlay  
 - **V** — Screen shake  
 - **P** — Performance mode  
-- **R** Restart • **Q** Quit
+- **R** Restart
+- **Q** Quit
 
 ---
 
